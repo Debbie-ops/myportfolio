@@ -50,7 +50,7 @@ export default function Hero() {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="text-muted-foreground text-lg md:text-xl max-w-2xl mb-8"
         >
-          Building modern web applications with a focus on clean code, performance, and user experience.
+          Building modern web applications with a focus on clean code, performance and user experience.
         </motion.p>
 
         <motion.div

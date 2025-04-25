@@ -89,10 +89,10 @@ export default function Contact() {
                     <div className="ml-4">
                       <h4 className="text-sm font-medium">Email</h4>
                       <a
-                        href="mailto:debbiemiti1@gmail.com"
+                        href="mailto:miti26miti@gmail.com"
                         className="text-muted-foreground hover:text-primary transition-colors"
                       >
-                        debbiemiti1@gmail.com
+                        miti26miti@gmail.com
                       </a>
                     </div>
                   </div>

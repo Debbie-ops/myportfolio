@@ -61,12 +61,12 @@ export default function About() {
               </p>
 
               <p>
-                I specialize in full stack development, with my experiance including frameworks like React and Laravel. I'm passionate about writing clean, maintainable code and creating intuitive user
+                I specialize in full stack development, with my experience including frameworks like React and Laravel. I'm passionate about writing clean, maintainable code and creating intuitive user
                 interfaces that provide exceptional user experiences.
               </p>
 
               <p>
-                When I'm not coding, you can find me exploring new places and adventures as a creative 
+                When I'm not coding, you can find me exploring new places and adventures as a creative {";)"}
               </p>
             </div>
 
