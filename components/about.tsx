@@ -72,7 +72,7 @@ export default function About() {
 
             <div className="mt-8">
               <Button asChild>
-                <a href="/DALISO.MITICV.pdf" target="_blank" rel="noopener noreferrer">
+                <a href="/DALISO DEBBIE MITI - CV.pdf" target="_blank" rel="noopener noreferrer">
                   <FileText className="mr-2 h-4 w-4" />
                   Download Resume
                 </a>
